@@ -40,6 +40,6 @@ flutter run
 
 Autor
 
-Jairo Rivas
+Jairo Rivas y Nathaly Perez Ortiz
 GitHub
 
