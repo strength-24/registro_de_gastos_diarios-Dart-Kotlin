@@ -27,6 +27,8 @@ Esta es una aplicación móvil desarrollada en Flutter (Dart) con integración n
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/strength-24/registro_de_gastos_diarios-Dart-Kotlin.git
+
+   ![imagen_alt](https://github.com/strength-24/registro_de_gastos_diarios-Dart-Kotlin/blob/18c76367858e38c200f10dde209573889e7c6df8/lib/IMG-20250517-WA0035.jpg)
 2. Abre el proyecto en Android Studio o tu editor preferido.
 
 
