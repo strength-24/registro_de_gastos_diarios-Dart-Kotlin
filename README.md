@@ -1,16 +1,42 @@
-# registro_de_gastos_diarios
+# Registro de Gastos Diarios
 
-A new Flutter project.
+Esta es una aplicación móvil desarrollada en Flutter (Dart) con integración nativa en Kotlin, diseñada para ayudar a los usuarios a registrar y controlar sus gastos diarios de forma práctica y sencilla.
 
-## Getting Started
+## Características
 
-This project is a starting point for a Flutter application.
+- Agregar nuevos gastos
+- Editar o eliminar gastos existentes
+- Registrar descripción, monto y fecha
+- Mostrar resumen mensual de gastos
+- Guardado local con SQLite
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologías utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter (Dart)
+- Kotlin (para funcionalidades nativas en Android)
+- SQLite para almacenamiento local
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requisitos
+
+- Flutter SDK instalado
+- Android Studio o Visual Studio Code
+- Emulador o dispositivo Android
+
+## Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/strength-24/registro_de_gastos_diarios-Dart-Kotlin.git
+2. Abre el proyecto en Android Studio o tu editor preferido.
+
+
+3. Ejecuta:
+
+flutter pub get
+flutter run
+
+Autor
+
+Jairo Rivas
+GitHub
+
